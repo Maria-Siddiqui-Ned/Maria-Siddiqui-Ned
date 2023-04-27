@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maria Siddiqui</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<img style="align-items:center;" width="50%" height="50%" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
+<img style="align-items:center;" width="30%" height="30%" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🔭 I’m currently working on **Javascript Project**
 
